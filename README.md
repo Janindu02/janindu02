@@ -78,7 +78,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=janindu02&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
----
+
+🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
